@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"fcm-mission","appId":"1:963435595036:android:5cc19cbf201072e2eaa6d9","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"fcm-mission","configurations":{"android":"1:963435595036:android:5cc19cbf201072e2eaa6d9","ios":"1:963435595036:ios:b11d6ec5bdf16131eaa6d9"}}}}}}

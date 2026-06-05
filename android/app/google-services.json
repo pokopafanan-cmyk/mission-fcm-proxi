@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963435595036",
+    "project_id": "fcm-mission",
+    "storage_bucket": "fcm-mission.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963435595036:android:5cc19cbf201072e2eaa6d9",
+        "android_client_info": {
+          "package_name": "com.example.proxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Iv_ggiZECkUHmZC93o5L102XpA1M0Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
